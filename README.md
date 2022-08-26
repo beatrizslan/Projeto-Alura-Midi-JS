@@ -1,4 +1,4 @@
-# Alura - Codificação do JavaScript do Projeto de Alura Midi
+# Alura - Codificação do JavaScript do Projeto Alura Midi
 
 Codificação da parte do JavaScript de um projeto disponibilizado durante o curso de Front-end da [Alura](https://www.alura.com.br/formacao-front-end).
 
@@ -29,7 +29,7 @@ O desafio foi construir um código JavaScript limpo e acessível do Alura Midi, 
 
 ### Screenshot
 
-
+![Print Alura Midi](https://user-images.githubusercontent.com/105252003/186982695-f703b36f-72a3-4ef3-8d8f-24477478598e.jpg)
 
 ### Links
 
@@ -90,5 +90,3 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
 ### Agradecimentos
 
 Gostaria de agradecer a toda equipe envolvida da Instituição Alura, pela excelente didática, plataforma de ensino e por disponibilizar projetos reais e profissionais que me ajudam muito a praticar e aprimorar todo meu conhecimento deste mundo incrível do Front-end.  
-
-
