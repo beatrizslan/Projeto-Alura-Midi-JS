@@ -29,7 +29,7 @@ O desafio foi construir um código JavaScript limpo e acessível do Alura Midi, 
 
 ### Screenshot
 
-![Print Alura Midi](https://user-images.githubusercontent.com/105252003/186982695-f703b36f-72a3-4ef3-8d8f-24477478598e.jpg)
+![Print Alura Midi](https://user-images.githubusercontent.com/105252003/186982896-20a40e9d-9a2e-4e3d-b707-d97844ac6a02.jpg)
 
 ### Links
 
